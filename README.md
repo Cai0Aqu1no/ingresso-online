@@ -1,7 +1,7 @@
 <h1>Ingresso Online</h1>
 
 <h2>🔖 Sobre</h2>
-<p>Projeto utilizado para o desenvolvimento de meus conhecimentos em JS</p>
+<p>Projeto criado para o desenvolvimento de meus conhecimentos em JS</p>
 
 ## 🚀 Tecnologias
 <div>
